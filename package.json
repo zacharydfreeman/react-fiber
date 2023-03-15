@@ -1,0 +1,22 @@
+{
+  "name": "react-fiber",
+  "version": "1.0.0",
+  "description": "React Fiber for Dummies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharydfreeman/react-fiber.git"
+  },
+  "author": "Zachary Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharydfreeman/react-fiber/issues"
+  },
+  "homepage": "https://github.com/zacharydfreeman/react-fiber#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
