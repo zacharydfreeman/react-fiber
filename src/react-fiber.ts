@@ -108,7 +108,6 @@ export const reconcile = (
           );
         }
       }
-
       if (oldFiber) {
         oldFiber.effectTag = 'DELETION';
         parentFiber.effects = parentFiber.effects || [];

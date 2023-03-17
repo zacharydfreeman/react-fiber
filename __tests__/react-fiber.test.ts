@@ -23,7 +23,7 @@ describe('createFiberTree', () => {
             type: 'p',
             props: {
               className: 'text',
-              children: ['This is a test.'],
+              children: [''],
             },
           },
         ],
