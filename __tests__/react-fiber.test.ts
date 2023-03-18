@@ -16,7 +16,7 @@ describe('createFiberTree', () => {
             type: 'h1',
             props: {
               className: 'title',
-              children: ['Hello, world!'],
+              children: ['Hello world!'],
             },
           },
           {
